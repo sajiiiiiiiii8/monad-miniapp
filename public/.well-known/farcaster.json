@@ -5,6 +5,11 @@
     "iconUrl": "https://monad-miniapp.vercel.app/logo.png",
     "homeUrl": "https://monad-miniapp.vercel.app",
     "splashImageUrl": "https://monad-miniapp.vercel.app/splash.png",
-    "splashBackgroundColor": "#000000"
+    "splashBackgroundColor": "#000000",
+    "accountAssociation": {
+      "header": "...",
+      "payload": "...",
+      "signature": "..."
+    }
   }
 }
