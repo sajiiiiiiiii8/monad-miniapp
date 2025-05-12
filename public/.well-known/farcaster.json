@@ -7,9 +7,9 @@
     "splashImageUrl": "https://monad-miniapp.vercel.app/splash.png",
     "splashBackgroundColor": "#000000",
     "accountAssociation": {
-      "header": "eyJma...غیره",
-      "payload": "eyJkb...غیره",
-      "signature": "MHg3...غیره"
+      "header": "eyJmaW...اینجا بذار از همون پاپ‌آپ",
+      "payload": "eyJkb...همون پاپ‌آپ",
+      "signature": "MHg3...همون پاپ‌آپ"
     }
   }
 }
