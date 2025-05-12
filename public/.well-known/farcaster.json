@@ -7,9 +7,9 @@
     "splashImageUrl": "https://monad-miniapp.vercel.app/splash.png",
     "splashBackgroundColor": "#000000",
     "accountAssociation": {
-      "header": "eyJmaW...اینجا بذار از همون پاپ‌آپ",
-      "payload": "eyJkb...همون پاپ‌آپ",
-      "signature": "MHg3...همون پاپ‌آپ"
+      "header": "eyJmaWQiOjI5ODQwNiwidHlwZSI6ImN1c3RvZHkiLCJrZXkiOiIweDI4ZDk0NjY2M2I1RjE5MEQzMTdBMmViOTYzMzZmNjZCQkRjYWQ4NjYifQ",
+      "payload": "eyJkb21haW4iOiJtb25hZC1taW5pYXBwLnZlcmNlbC5hcHAifQ",
+      "signature": "MHg3Mzk5MGZiZDYyMTdiMjQ1Nzg1MzVhNmE0ODNkYThmMzMwNDgwODc3MThiNDlmMjYzZWQ5ZDM3MjZlNWFhODczMzc1ZTE1OTQ4ZWU3NmJjMDdlYTY2MzZlOGI3MzZhYTgwZmMyMzk0ODIzM2ZmYjlkM2Q3MWYxODYwNDdkMWEwZTFi"
     }
   }
 }
