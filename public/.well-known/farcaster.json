@@ -1,0 +1,10 @@
+{
+  "frame": {
+    "version": "1",
+    "name": "Monad Mint",
+    "iconUrl": "/logo.png",
+    "homeUrl": "/",
+    "splashImageUrl": "/splash.png",
+    "splashBackgroundColor": "#000000"
+  }
+}
